@@ -34,8 +34,7 @@
                     "managerFeedback": null,
                     "managerRating": null,
                     "frequency": "Every Month",
-                    "target": "Every month (Met if appreciation - Not met if escalation)",
-                    "managerCommentsDtos": []
+                    "target": "Every month (Met if appreciation - Not met if escalation)"
                 },
                 {
                     "id": 5534,
@@ -48,8 +47,7 @@
                     "managerFeedback": null,
                     "managerRating": null,
                     "frequency": "6 Months or When Project Ends",
-                    "target": "> 4",
-                    "managerCommentsDtos": []
+                    "target": "> 4"
                 },
                 {
                     "id": 5533,
@@ -62,8 +60,7 @@
                     "managerFeedback": null,
                     "managerRating": null,
                     "frequency": "6 Months or When Project Ends",
-                    "target": "> 75 % (No. of referenceable clients / total clients)",
-                    "managerCommentsDtos": []
+                    "target": "> 75 % (No. of referenceable clients / total clients)"
                 }
             ]
         },
@@ -85,8 +82,7 @@
                     "managerFeedback": null,
                     "managerRating": null,
                     "frequency": "Monthly or Phase End",
-                    "target": "5 - 10 % variance",
-                    "managerCommentsDtos": []
+                    "target": "5 - 10 % variance"
                 },
                 {
                     "id": 5532,
@@ -99,8 +95,7 @@
                     "managerFeedback": null,
                     "managerRating": null,
                     "frequency": "Per Audit",
-                    "target": "5 - 10 NC's",
-                    "managerCommentsDtos": []
+                    "target": "5 - 10 NC's"
                 },
                 {
                     "id": 5531,
@@ -113,8 +108,7 @@
                     "managerFeedback": null,
                     "managerRating": null,
                     "frequency": "Monthly or Phase End",
-                    "target": "1 - 5 % variance",
-                    "managerCommentsDtos": []
+                    "target": "1 - 5 % variance"
                 },
                 {
                     "id": 5529,
@@ -127,8 +121,7 @@
                     "managerFeedback": null,
                     "managerRating": null,
                     "frequency": "Every Release",
-                    "target": "< 10 %",
-                    "managerCommentsDtos": []
+                    "target": "< 10 %"
                 }
             ]
         }
